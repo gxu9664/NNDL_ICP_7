@@ -22,3 +22,5 @@ architecture behavior.
 
   11. Provide logical description of which steps lead to improved response for new dataset when compared with
 baseline model and enhance architecture and what was its impact on architecture behavior.
+
+Video: https://drive.google.com/drive/u/2/folders/1mpxkstBSoyAlwqtXjEYrJbtITBqYDnc6
